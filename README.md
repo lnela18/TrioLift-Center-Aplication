@@ -1,13 +1,13 @@
 # TrioLift-renting
 
-##Table of Contents
+## Table of Contents
 
 
-###Description
+### Description
 
 
 
-####Application Functionality
+#### Application Functionality
 
 
 
