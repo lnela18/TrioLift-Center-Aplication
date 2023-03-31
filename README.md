@@ -16,30 +16,34 @@ Our app will include 3 categories of users:
 <br>
 
 ### Customers
-The customer willl have a number of  different options  such as :
-* to get the necessary information about the types of cars 
-* view the prices of each type of car(How is their price per hour/per day/per week or month and also how is their price for each type of car )
-* to set-up an appointment 
-* to see which types of  cars are or not available 
-* to be informed about monthly offers 
-* to complete the form for car maintenance through the application
+The customer will have a number of  different options  such as :
+* to get the necessary information about the types of cars. 
+* view the prices of each type of car(How is their price per hour/per day/per week or month and also how is their price for each type of car).
+* to set-up an appointment. 
+* to see which types of  cars are or not available. 
+* to be informed about monthly offers. 
+* to complete the form for car maintenance through the application.
 
 
 
 
 ### Company employees
 The employees will have a number  of different options such as :
-* to have access to their personal data regarding the monthly performance
+* to have access to their personal data regarding the monthly performance.
 * to be informed about legal terms and regulations of the company,monthly salary etc.
-* they will have the option to notice the company if they will not be able to come in the company
-* to intercat with cutomers and their orders
+* they will have the option to notice the company if they will not be able to come in the company.
+* to intercat with cutomers and their orders.
 * to make necessary changes if the car is not in condition or it is returned back.
 * to notice regular customers about the last offers .
 
 
 
 ### Firm manager
-
+The firm manager will have a number of  different options  such as :
+* Check and set the salaries of each employee.
+* Check how many hours each employee has worked.
+* To check how many contracts each employee managed to sign with the client.
+* Check and set vacation days and annual leave for each employee.
 
 
 
