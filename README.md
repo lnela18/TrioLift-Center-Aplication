@@ -33,7 +33,7 @@ The employees will have a number  of different options such as :
 * to be informed about legal terms and regulations of the company,monthly salary etc.
 * they will have the option to notice the company if they will not be able to come in the company
 * to intercat with cutomers and their orders
-* to make necessary changes if the car is not in condition or it is retuned back.
+* to make necessary changes if the car is not in condition or it is returned back.
 * to notice regular customers about the last offers .
 
 
