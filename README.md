@@ -43,6 +43,7 @@ The firm manager will have a number of  different options  such as :
 * Check and set the salaries of each employee.
 * Check how many hours each employee has worked.
 * To check how many contracts each employee managed to sign with the client.
+* Checks the contracts concluded regarding the regularity between the two parties to the contract.
 * Check and set vacation days and annual leave for each employee.
 
 
