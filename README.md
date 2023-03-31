@@ -15,6 +15,19 @@ Our app will include 3 categories of users:
 * [Firm manager](#Firm-manager)
 <br>
 
+###Customers
+
+
+
+
+
+###Company employees
+
+
+
+
+###Firm manager
+
 
 
 
