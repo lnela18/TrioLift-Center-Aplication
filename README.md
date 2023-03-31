@@ -17,12 +17,12 @@ Our app will include 3 categories of users:
 
 ### Customers
 The customer willl have a number of  different options  such as :
-*to get the necessary information about the types of cars 
-*view the prices of each type of car(How is their price per hour/per day/per month/per week and also how is their price for each type of car )
-*to set-up an appointment 
-*to see which types of  cars are or not available 
-*to be informed about monthly offers 
-*to complete the form for car maintenance through the application
+* to get the necessary information about the types of cars 
+* view the prices of each type of car(How is their price per hour/per day/per month/per week and also how is their price for each type of car )
+* to set-up an appointment 
+* to see which types of  cars are or not available 
+* to be informed about monthly offers 
+* to complete the form for car maintenance through the application
 
 
 
