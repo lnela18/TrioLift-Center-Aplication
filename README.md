@@ -11,22 +11,22 @@ Our program will be suited to fit the daily operations of a small rental car com
 ## Application Functionality
 Our app will include 3 categories of users:
 * [Customers](#Customers)
-* [Company employees](#Company-employees)
-* [Firm manager](#Firm-manager)
+* [Company Employees](#Company-Employees)
+* [Firm Manager](#Firm-Manager)
 <br>
 
-###Customers
+### Customers
 
 
 
 
 
-###Company employees
+### Company employees
 
 
 
 
-###Firm manager
+### Firm manager
 
 
 
