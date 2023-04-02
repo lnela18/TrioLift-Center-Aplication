@@ -1,4 +1,4 @@
-# TrioLift-renting
+# TrioLift-Center
 
 ## Table of Contents
 * [Description](#description)
@@ -16,37 +16,33 @@ Our app will include 3 categories of users:
 <br>
 
 ### Student
-The customer will have a number of  different options  such as :
-* to get the necessary information about the types of cars. 
-* set bonuses for each employee in relation to the set target and work performance.
-* view the prices of each type of car(How is their price per hour/per day/per week or month and also how is their price for each type of car).
-* to set-up an appointment. 
-* to see which types of  cars are or not available. 
-* to be informed about monthly offers. 
-* to complete the form for car maintenance through the application.
-
+Student will have a number of  different options  such as :
+* Student will be able to check the languages in which he can register along with the respective levels.
+* Student will be able to check the schedules and prices for each category.
+* The student will be able to see a short description of the teaching method and the groups that are formed.
+* The student will be able to see reviews of students who have previously received service near the center.
+* Student will be able to register in the program he wants by filling out a form with personal data.
+* Student who attended and completed the course will be able to write a review about the service at the center.
 
 
 
 ### Teachers
-The employees will have a number  of different options such as :
+Teachers will have a number  of different options such as :
 * to have access to their personal data regarding the monthly performance.
-* to be informed about legal terms and regulations of the company,monthly salary etc.
-* they will have the option to notice the company if they will not be able to come in the company.
-* to intercat with cutomers and their orders.
-* to make necessary changes if the car is not in condition or it is returned back.
-* to notice regular customers about the last offers .
-
+* The teacher sets the lesson times according to flexibility after agreeing with the fixed group.
+* Determines the topics that will be developed in each language program that will be explained.
+* Teacher keeps notes and puts in the system about the participation of individuals in the lesson.
+* Teacher keeps a note and enters the working hours into the system together with the additional hours for the salary calculation every end of the month.
+* Teacher will notify if there will be schedule changes or if any of the working days will be missed.
 
 
 ### Center manager
-The firm manager will have a number of  different options  such as :
+The Center manager will have a number of  different options  such as :
 * Check and set the salaries of each employee.
-* Check how many hours each employee has worked.
-* To check how many contracts each employee managed to sign with the client.
-* Checks the contracts concluded regarding the regularity between the two parties to the contract.
-* Check and set vacation days and annual leave for each employee.
-
+* Check how many hours each teacher has worked include overtime.
+* Check the number of people registered for each program.
+* Sets the prices for each language program offered by the center.
+* Check the contract related to each client for legal irregularities.
 
 
 
