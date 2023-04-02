@@ -10,12 +10,12 @@ Our aim is to design an application that will assist the daily needs and service
 
 ## Application Functionality
 Our app will include 3 categories of users:
-* [Customers](#Customers)
-* [Company Employees](#Company-Employees)
-* [Firm Manager](#Firm-Manager)
+* [Student](#Student)
+* [Teachers](#Teachers)
+* [Center Manager](#Center-Manager)
 <br>
 
-### Customers
+### Student
 The customer will have a number of  different options  such as :
 * to get the necessary information about the types of cars. 
 * set bonuses for each employee in relation to the set target and work performance.
@@ -28,7 +28,7 @@ The customer will have a number of  different options  such as :
 
 
 
-### Company employees
+### Teachers
 The employees will have a number  of different options such as :
 * to have access to their personal data regarding the monthly performance.
 * to be informed about legal terms and regulations of the company,monthly salary etc.
@@ -39,7 +39,7 @@ The employees will have a number  of different options such as :
 
 
 
-### Firm manager
+### Center manager
 The firm manager will have a number of  different options  such as :
 * Check and set the salaries of each employee.
 * Check how many hours each employee has worked.
