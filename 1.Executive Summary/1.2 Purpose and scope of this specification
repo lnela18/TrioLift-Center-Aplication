@@ -1,1 +1,20 @@
 
+The purpose of this specification is to assess the current state of the product design and
+to document the entire process based on design issues and the audience.
+This specification encompasses several aspects of the process being discussed in an
+as broad scope as possible. For that reason, in this scope we address the following:
+● In depth documentation of the features of the product
+● Technical overview of the application processes and views
+  o This is discussed in Part 2.1 and throughout the document
+● User and System Requirements
+● Components & Functional/non-functional requirements
+  o These are discussed in Part 3 in some detail
+● Definition of users’ means of using and accessing the product
+  o Use cases/scenarios discussed in Part 4
+● Dependencies and Constraints
+  o These are discussed in Part 2.4/5 of the Document
+
+
+Aspects not included in the scope are as follows:
+● Legislative requirements for the product
+● Auditing and financial considerations of the product
